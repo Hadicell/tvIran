@@ -1,16 +1,8 @@
-# tv_iran
+# tvIran
+Online TV
+تلویزیون آنلاین
+پخش زنده تلویزیون سراسری ایران
 
-A new Flutter project.
 
-## Getting Started
+https://user-images.githubusercontent.com/101221304/173197884-ca06b04d-0110-4f69-af63-9909ea8e5b73.mp4
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
